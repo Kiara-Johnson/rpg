@@ -1,0 +1,2 @@
+Welcome to TBD RPG!
+This game takes place on the mainly unexplored world of Taelora where you start off as one of the settlers of the colony Teriss. You will work with the other settlers to build the colony and explore the planet.
