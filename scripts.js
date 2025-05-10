@@ -6,6 +6,7 @@ let gold='';
 let magic=''; 
 let intelligence='';
 let strength='';
+let dexterity='';
 // weapons and staff arrays of objects with names and power
 
 
